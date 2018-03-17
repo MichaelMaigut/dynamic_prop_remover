@@ -2,5 +2,8 @@
 name = "dynamic_props_remover"
 version = "0.1.0"
 authors = ["Micha"]
+readme = "README.md"
 
 [dependencies]
+process-memory = "0.2.3"
+imgui = "0.0.18"
