@@ -12,3 +12,4 @@ This is a little tool for "Grand Theft Auto 5 Creator" to remove dynamic props o
 
 - - -
 *The program got coded in "Rust".*
+
